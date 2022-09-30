@@ -1,0 +1,14 @@
+body{
+    font-family: serif;
+    background-color: blue;
+}
+h1{
+    font-size: larger;
+}
+p{
+    margin-left: 20px;
+}
+img{
+    background-color: blue;
+    max-width: 100%;
+}
